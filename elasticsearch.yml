@@ -1,0 +1,3 @@
+cluster.name: "pramod-cluster"
+path.data: /home/esuser/data
+network.host: 0.0.0.0
